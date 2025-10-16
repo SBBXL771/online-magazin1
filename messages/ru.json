@@ -1,0 +1,13 @@
+{
+  "TopHeader": {
+    "about": "О нас",
+    "stores": "Магазины",
+    "payment-and-delivery": "Оплата и доставка",
+    "order-status": "Статус заказа",
+    "returned": "Возврат",
+    "contacts": "Контакты"
+  },
+  "HomePage": {
+    "sales-xits": "Распродажи и хиты"
+  }
+}

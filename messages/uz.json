@@ -1,0 +1,13 @@
+{
+  "TopHeader": {
+    "about": "Biz haqimizda",
+    "stores": "Do'konlar",
+    "payment-and-delivery": "To'lov va yetkazib berish",
+    "order-status": "Buyurtma holati",
+    "returned": "Qaytarish",
+    "contacts": "Aloqa"
+  },
+  "HomePage": {
+    "sales-xits": "Sotuv va hitlar"
+  }
+}
